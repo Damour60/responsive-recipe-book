@@ -14,6 +14,8 @@ h1 {
 .btn {
   border-color: #fff;
   background-color: #d2232a;
+  text-decoration: none;
+  list-style: none;
 }
 
 .btn:hover {
@@ -61,4 +63,21 @@ h1 {
 footer {
   background-color: #d2232a;
   color: #fff;
+}
+
+.social {
+  display: flex;
+}
+
+.about {
+  display: flex;
+}
+
+@media only screen and (min-width: 900px) {
+
+  .column {
+    column-count: 2;
+    column-gap: 2em;
+  }
+
 }
