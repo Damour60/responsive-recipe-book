@@ -65,7 +65,8 @@ h1 {
 }
 
 .img-recipe {
-  max-height: 25%;
+  max-height: 25em;
+  max-width: 25em;
 }
 
 footer {
