@@ -11,6 +11,12 @@ h1 {
   font-family: Yana, serif;
 }
 
+.banner-img {
+  max-height: 50em;
+  max-width: 75em;
+  margin-bottom: 2em;
+}
+
 .btn {
   border-color: #fff;
   background-color: #d2232a;
@@ -62,6 +68,11 @@ h1 {
 
 .bold {
   font-weight: bold;
+  margin-bottom: 0;
+}
+
+.mega {
+  margin-bottom: 0;
 }
 
 .img-recipe {
